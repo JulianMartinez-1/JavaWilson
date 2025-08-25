@@ -5,20 +5,20 @@ import java.util.Map;
 import java.util.HashMap;
 
 public class Main {
-    public static void main(String[] args) {
+        public static void main(String[] args) {
         // System.out.println("Hello World");
         // System.out.print("Otro saludo");
         // System.out.println("Programacion Java");
         // System.out.print("Otro Saludoooo");
 
-        //Manejo de variables
-        //int edad = 20; //Entero
-        //System.out.println("La edad es: " + edad);
+        // // Manejo de variables
+        // int edad = 20; //Entero
+        // System.out.println("La edad es: " + edad);
         // System.out.println("Su edad es: "  edad);
-        //double precio = 99.99; //Numero decimal
-        //char inicial = 'A'; //Caracter
-        //boolean esMayor = true; //Booleano
-        //String nombre = "Juan"; //Cadena de texto
+        // double precio = 99.99; //Numero decimal
+        // char inicial = 'A'; //Caracter
+        // boolean esMayor = true; //Booleano
+        // String nombre = "Juan"; //Cadena de texto
 
         // // Operaciones
         // int numero1 = 10;
@@ -27,7 +27,7 @@ public class Main {
         // int resultado = numero1 + numero2;
         // System.out.print("El resultado es: " + resultado);
 
-        //uso de Scanner para capturar datos desde la consola
+        // uso de Scanner para capturar datos desde la consola
 
         java.util.Scanner sc = new java.util.Scanner(System.in);
         // System.out.print("Ingrese su nombre:");
@@ -340,28 +340,26 @@ public class Main {
         // System.out.println("Lectura máxima: " + maximo + " horas");
 
 
-//         //ejemplo Inventario simple
-//         Map<String, Integer> inventario = new HashMap<>();
-//         inventario.put("\n Manzanas", 50);
-//         inventario.put("\n Bananas", 30);
-//         inventario.put("\n Naranjas", 20);
-//         inventario.put("\n Peras", 15);
+        // //ejemplo Inventario simple
+        // Map<String, Integer> inventario = new HashMap<>();
+        // inventario.put("\n Manzanas", 50);
+        // inventario.put("\n Bananas", 30);
+        // inventario.put("\n Naranjas", 20);
+        // inventario.put("\n Peras", 15);
         
-//         System.out.println("Inventario inicial: " + inventario);
+        // System.out.println("Inventario inicial: " + inventario);
 
-//         String productoMax = "";
-//         int cantidadMax = Integer.MIN_VALUE;
+        // String productoMax = "";
+        // int cantidadMax = Integer.MIN_VALUE;
 
-//         for (Map.Entry<String, Integer> entry : inventario.entrySet()) {
-//         if (entry.getValue() > cantidadMax) {
-//         cantidadMax = entry.getValue();
-//         productoMax = entry.getKey();
-//     }
-// }
-//         System.out.println("Producto con mayor cantidad: " + productoMax + " (" + cantidadMax + ")");
+        // for (Map.Entry<String, Integer> entry : inventario.entrySet()) 
+        // if (entry.getValue() > cantidadMax) 
+        // cantidadMax = entry.getValue();
+        // productoMax = entry.getKey();
+
+
+        // System.out.println("Producto con mayor cantidad: " + productoMax + " (" + cantidadMax + ")");
 
         sc.close();
-
+        }
 }
-}
-
