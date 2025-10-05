@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="EclipseLink-GlassFish-v3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/EclipseLink-GlassFish-v3/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EclipseLink-GlassFish-v3/org.eclipse.persistence.oracle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EclipseLink-GlassFish-v3/org.eclipse.persistence.jpa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EclipseLink-GlassFish-v3/org.eclipse.persistence.asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EclipseLink-GlassFish-v3/org.eclipse.persistence.core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EclipseLink-GlassFish-v3/org.eclipse.persistence.jpa.modelgen.processor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EclipseLink-GlassFish-v3/javaee-doc-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EclipseLink-GlassFish-v3/org.eclipse.persistence.moxy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EclipseLink-GlassFish-v3/org.eclipse.persistence.jpa.jpql.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EclipseLink-GlassFish-v3/org.eclipse.persistence.antlr.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/EclipseLink-GlassFish-v3/org.eclipse.persistence.dbws.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

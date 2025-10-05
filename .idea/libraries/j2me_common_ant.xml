@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="j2me_common_ant">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/j2me_common_ant/org-netbeans-modules-classfile.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/j2me_common_ant/org-netbeans-modules-j2me-common-ant.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

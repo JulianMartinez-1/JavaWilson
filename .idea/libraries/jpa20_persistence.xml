@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jpa20-persistence">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jpa20-persistence/javax.persistence-2.1.0-doc.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jpa20-persistence/javax.persistence_2.1.0.v201304241213.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

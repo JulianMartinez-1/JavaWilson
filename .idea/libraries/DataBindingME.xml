@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="DataBindingME">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/DataBindingME/netbeans_databindingme-api.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/DataBindingME/netbeans_databindingme.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/DataBindingME/netbeans_databindingme-src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

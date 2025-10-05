@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="DataBindingME-SVG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/DataBindingME-SVG/netbeans_databindingme_svg-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/DataBindingME-SVG/netbeans_databindingme_svg-api.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/DataBindingME-SVG/netbeans_databindingme_svg.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jsf12">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jsf12/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsf12/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsf12/jsf-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsf12/javaee-doc-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsf12/commons-digester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsf12/jsf-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jsf12/commons-collections.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

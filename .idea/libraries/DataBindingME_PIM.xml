@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="DataBindingME-PIM">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/DataBindingME-PIM/netbeans_databindingme_pim-src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/DataBindingME-PIM/netbeans_databindingme_pim-api.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/DataBindingME-PIM/netbeans_databindingme_pim.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

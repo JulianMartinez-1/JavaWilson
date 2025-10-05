@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="Java-EE-GlassFish-v3-Prelude">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.xml.rpc-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.interceptor-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.resource-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.inject.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.servlet.jsp.jstl-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.annotation-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.json.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/jaxb-osgi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.servlet.jsp-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javaee-doc-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.security.auth.message-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/webservices-api-osgi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.enterprise.deploy-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.batch-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.ejb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.management.j2ee-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.websocket-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.ws.rs-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/webservices-osgi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.xml.registry-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.el.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/jaxm-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.jms-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.security.jacc-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/weld-osgi-bundle.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.enterprise.concurrent.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/bean-validator.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.transaction-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.faces.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/javax.enterprise.concurrent-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Java-EE-GlassFish-v3-Prelude/cdi-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
