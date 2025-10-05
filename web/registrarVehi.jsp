@@ -619,7 +619,7 @@
                                                                                                 <select name="txtidtv">
                                                                                                     <option value="0">Seleccione un Tipo de Vehiculo</option>
                                                                                                     <!--Traer la lista de l0os tipo de vehiculo forening key
-                                                                                                    El for es para recorrer cada uno de los tipo de vehi que tiene la lista.
+                                                                                                    El for es para recorrer cada uno de los tipo vehi que tiene la lista.
                                                                                                     En este for corto, El objeto tv recibe(:) cada uno de los tipo vehi que viene de la lista que esta en el DAO-->
                                                                                                     <% for (tipovehi tv:tipoVehiDAO.listarTv()) { %>
                                                                                                         <!--en value mediante el objeto tv se trae el id del tipo y en la option se muestra el nombre del tipo vehi -->
@@ -663,7 +663,7 @@
 				<div class="footer-inner">
 					<div class="footer-content">
 						<span class="bigger-120">
-							Julian &copy; SoWil-2025
+							Julian &copy; Julian-2025
 						</span>
 
 						&nbsp; &nbsp;
@@ -836,6 +836,7 @@
 				
 				
 				
+
 				myTable.on( 'select', function ( e, dt, type, index ) {
 					if ( type === 'row' ) {
 						$( myTable.row( index ).node() ).find('input:checkbox').prop('checked', true);

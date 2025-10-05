@@ -17,7 +17,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta charset="utf-8" />
     <title>Julian Company</title>
-    <meta name="description" content="Wilson Castro Gil" />
+    <meta name="description" content="Julian" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
     <%@include file="cssplantilla.jsp" %>
 </head>
@@ -188,7 +188,7 @@
             <div class="footer-inner">
                 <div class="footer-content">
                     <span class="bigger-120">
-                        Wilson Castro Gil &copy; SoWil-2025
+                        Julian &copy; Julian-2025
                     </span>
                 </div>
             </div>

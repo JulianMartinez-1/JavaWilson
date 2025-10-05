@@ -556,6 +556,9 @@
 
 								<div class="row">
 									<div class="col-xs-12">
+										<a href="${ctx}/registrarVehi.jsp" class="btn btn-primary" style="margin-bottom: 15px;">
+                                            <i class="fa fa-plus"></i> Registrar Vehículo
+                                        </a>
 										<div class="table-header">
 											Resultado de vehículos registrados
 										</div>
@@ -701,7 +704,7 @@
 				<div class="footer-inner">
 					<div class="footer-content">
 						<span class="bigger-120">
-							Julian &copy; SoWil-2025
+							Julian &copy; Julian-2025
 						</span>
 
 						&nbsp; &nbsp;
