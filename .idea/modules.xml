@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/WebFlotaVehiculo.iml" filepath="$PROJECT_DIR$/WebFlotaVehiculo.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/ejemplo java.iml" filepath="$PROJECT_DIR$/.idea/ejemplo java.iml" />
+>>>>>>> 47d50ff058fca4c40ca8be5be61b8495ddba6028
     </modules>
   </component>
 </project>
